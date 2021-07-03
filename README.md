@@ -20,7 +20,7 @@ Avant de commencer à vous amuser avec le projet, comme il est créé en langage
 
 ![Mkae_du_projet](https://user-images.githubusercontent.com/71844868/124367298-481b9f00-dc56-11eb-907d-a06c91a391e7.png)
 
-Une fois ceci fait exécuter le programme comme montré ci-dessus et vous devriez avoir un rendu de ce style dans votre terminal :
+Une fois ceci fait exécutez le programme comme montré plus tôt et vous devriez avoir un rendu de ce style dans votre terminal :
 
 ![capture_du_jeu](https://user-images.githubusercontent.com/71844868/124367317-726d5c80-dc56-11eb-855b-ca8a5beae8b1.png)
 
