@@ -7,6 +7,7 @@ Sokoban en japonais signifie garde d'entrepôt, il faut donc faire le travail de
 # Utilisation
 
 Pour commencer ce projet utilise un seul paramètre à mettre à la suite de l'exécution, c'est un fichier contenant une map comme celui-ci dessous :
+
 ![Cat_map](https://user-images.githubusercontent.com/71844868/124367217-85cbf800-dc55-11eb-978a-92d48d4ff2f7.png)
 Il y en a déjà une dans le repo pour tester, si vous voulez vous pouvez designer vos propre carte et les passer en paramètre au projet comme ceci :
 ![commande_executio](https://user-images.githubusercontent.com/71844868/124367251-cdeb1a80-dc55-11eb-8c29-63c3b6144d47.png)
